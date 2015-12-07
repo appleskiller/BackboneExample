@@ -1,0 +1,2 @@
+# BackboneExample
+一个基于backbone扩展的基本视图实现，展示了如何从底层开始完成直到tree的视图实现
